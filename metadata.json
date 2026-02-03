@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Architect",
+  "description": "A multi-agent AI staging area that analyzes GitHub repositories to generate surgical, constraint-aware coding prompts.",
+  "requestFramePermissions": []
+}
